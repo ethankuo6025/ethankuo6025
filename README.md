@@ -5,5 +5,5 @@
 - Minoring in Math and Physics
 
 ### Selected Projects
-- [LETF Research](https://github.com/EMK6025/letf-mean-reversion): Genetic-optimization backtesting pipeline for simulating and analyzing S&P 500 leveraged ETFs (LETFs)
+- [LETF Research](https://github.com/ethankuo6025/letf-mean-reversion): Genetic-optimization backtesting pipeline for simulating and analyzing S&P 500 leveraged ETFs (LETFs)
 ---
