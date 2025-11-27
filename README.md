@@ -1,6 +1,6 @@
 ### Ethan Kuo
 ---
-- Data Science | Systematic Investing | 
+- Machine Learning | Data Science | Systematic Investing | 
 - Computer Science @ Penn State (Graduating May 2027)
 - Minoring in Math and Physics
 
