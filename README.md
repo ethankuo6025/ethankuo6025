@@ -6,4 +6,5 @@
 
 ### Selected Projects
 - [LETF Research](https://github.com/ethankuo6025/letf-mean-reversion): Genetic-optimization backtesting pipeline for simulating and analyzing S&P 500 leveraged ETFs (LETFs)
+- [cheesecloth](https://github.com/ethankuo6025/cheesecloth): Stock screener/filter integrated with SEC EDGAR filings
 ---
