@@ -1,6 +1,5 @@
 ### Ethan Kuo
 ---
-- Discretionary Long/Short | Factor-based Systematic Investing
 - Computer Science @ Penn State (Graduating May 2027)
 - Minoring in Math and Physics
 
